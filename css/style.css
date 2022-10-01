@@ -1,0 +1,22 @@
+form {
+    width: 300px;
+}
+.msg {
+    border: 1px solid rgb(165, 165, 167);
+    border-radius: 7px;
+    background-color: rgb(245, 162, 162);
+    width: 300px;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.msg1 {
+    border: 1px solid rgb(165, 165, 167);
+    border-radius: 7px;
+    background-color: rgb(117, 214, 140);
+    width: 300px;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
